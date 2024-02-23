@@ -1,4 +1,0 @@
-C:\Users\JONATHAN\Desktop\Programacion I\Tareapoo\TareaPOO\TareaPOO\obj\Debug\net8.0\TareaPOO.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\JONATHAN\Desktop\Programacion I\Tareapoo\TareaPOO\TareaPOO\obj\Debug\net8.0\TareaPOO.AssemblyInfoInputs.cache
-C:\Users\JONATHAN\Desktop\Programacion I\Tareapoo\TareaPOO\TareaPOO\obj\Debug\net8.0\TareaPOO.AssemblyInfo.cs
-C:\Users\JONATHAN\Desktop\Programacion I\Tareapoo\TareaPOO\TareaPOO\obj\Debug\net8.0\TareaPOO.csproj.CoreCompileInputs.cache

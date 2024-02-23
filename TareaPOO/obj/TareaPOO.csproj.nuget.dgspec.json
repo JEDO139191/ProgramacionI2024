@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JONATHAN\\Desktop\\Programacion I\\Tareapoo\\TareaPOO\\TareaPOO\\TareaPOO.csproj": {}
+    "C:\\Users\\JONATHAN\\Desktop\\Programacion I\\EjercicioPOO\\TareaPOO\\TareaPOO\\TareaPOO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JONATHAN\\Desktop\\Programacion I\\Tareapoo\\TareaPOO\\TareaPOO\\TareaPOO.csproj": {
+    "C:\\Users\\JONATHAN\\Desktop\\Programacion I\\EjercicioPOO\\TareaPOO\\TareaPOO\\TareaPOO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JONATHAN\\Desktop\\Programacion I\\Tareapoo\\TareaPOO\\TareaPOO\\TareaPOO.csproj",
+        "projectUniqueName": "C:\\Users\\JONATHAN\\Desktop\\Programacion I\\EjercicioPOO\\TareaPOO\\TareaPOO\\TareaPOO.csproj",
         "projectName": "TareaPOO",
-        "projectPath": "C:\\Users\\JONATHAN\\Desktop\\Programacion I\\Tareapoo\\TareaPOO\\TareaPOO\\TareaPOO.csproj",
+        "projectPath": "C:\\Users\\JONATHAN\\Desktop\\Programacion I\\EjercicioPOO\\TareaPOO\\TareaPOO\\TareaPOO.csproj",
         "packagesPath": "C:\\Users\\JONATHAN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JONATHAN\\Desktop\\Programacion I\\Tareapoo\\TareaPOO\\TareaPOO\\obj\\",
+        "outputPath": "C:\\Users\\JONATHAN\\Desktop\\Programacion I\\EjercicioPOO\\TareaPOO\\TareaPOO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\JONATHAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
