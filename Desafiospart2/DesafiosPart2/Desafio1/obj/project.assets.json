@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JONATHAN\\Desktop\\Curso C#\\Desafiospart2\\DesafiosPart2\\Desafio1\\Desafio1.csproj",
+      "projectUniqueName": "C:\\Users\\JONATHAN\\Desktop\\Tareas Programacion I\\Desafiospart2\\DesafiosPart2\\Desafio1\\Desafio1.csproj",
       "projectName": "Desafio1",
-      "projectPath": "C:\\Users\\JONATHAN\\Desktop\\Curso C#\\Desafiospart2\\DesafiosPart2\\Desafio1\\Desafio1.csproj",
+      "projectPath": "C:\\Users\\JONATHAN\\Desktop\\Tareas Programacion I\\Desafiospart2\\DesafiosPart2\\Desafio1\\Desafio1.csproj",
       "packagesPath": "C:\\Users\\JONATHAN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JONATHAN\\Desktop\\Curso C#\\Desafiospart2\\DesafiosPart2\\Desafio1\\obj\\",
+      "outputPath": "C:\\Users\\JONATHAN\\Desktop\\Tareas Programacion I\\Desafiospart2\\DesafiosPart2\\Desafio1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\JONATHAN\\AppData\\Roaming\\NuGet\\NuGet.Config",

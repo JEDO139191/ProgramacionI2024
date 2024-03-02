@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\JONATHAN\\Desktop\\Curso C#\\Desafiospart2\\DesafiosPart2\\",
+  "WorkspaceRootPath": "C:\\Users\\JONATHAN\\Desktop\\Tareas Programacion I\\Desafiospart2\\DesafiosPart2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{84E17683-3104-408C-8FC7-BC1FFC996F77}|Desafio1\\Desafio1.csproj|c:\\users\\jonathan\\desktop\\curso c#\\desafiospart2\\desafiospart2\\desafio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{84E17683-3104-408C-8FC7-BC1FFC996F77}|Desafio1\\Desafio1.csproj|c:\\users\\jonathan\\desktop\\tareas programacion i\\desafiospart2\\desafiospart2\\desafio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84E17683-3104-408C-8FC7-BC1FFC996F77}|Desafio1\\Desafio1.csproj|solutionrelative:desafio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84E17683-3104-408C-8FC7-BC1FFC996F77}|Desafio1\\Desafio1.csproj|c:\\users\\jonathan\\desktop\\curso c#\\desafiospart2\\desafiospart2\\desafio1\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{84E17683-3104-408C-8FC7-BC1FFC996F77}|Desafio1\\Desafio1.csproj|c:\\users\\jonathan\\desktop\\tareas programacion i\\desafiospart2\\desafiospart2\\desafio1\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84E17683-3104-408C-8FC7-BC1FFC996F77}|Desafio1\\Desafio1.csproj|solutionrelative:desafio1\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,9 +24,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Usuarios.cs",
-              "DocumentMoniker": "C:\\Users\\JONATHAN\\Desktop\\Curso C#\\Desafiospart2\\DesafiosPart2\\Desafio1\\Usuarios.cs",
+              "DocumentMoniker": "C:\\Users\\JONATHAN\\Desktop\\Tareas Programacion I\\Desafiospart2\\DesafiosPart2\\Desafio1\\Usuarios.cs",
               "RelativeDocumentMoniker": "Desafio1\\Usuarios.cs",
-              "ToolTip": "C:\\Users\\JONATHAN\\Desktop\\Curso C#\\Desafiospart2\\DesafiosPart2\\Desafio1\\Usuarios.cs",
+              "ToolTip": "C:\\Users\\JONATHAN\\Desktop\\Tareas Programacion I\\Desafiospart2\\DesafiosPart2\\Desafio1\\Usuarios.cs",
               "RelativeToolTip": "Desafio1\\Usuarios.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAB4AAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -37,11 +37,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\JONATHAN\\Desktop\\Curso C#\\Desafiospart2\\DesafiosPart2\\Desafio1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\JONATHAN\\Desktop\\Tareas Programacion I\\Desafiospart2\\DesafiosPart2\\Desafio1\\Program.cs",
               "RelativeDocumentMoniker": "Desafio1\\Program.cs",
-              "ToolTip": "C:\\Users\\JONATHAN\\Desktop\\Curso C#\\Desafiospart2\\DesafiosPart2\\Desafio1\\Program.cs",
+              "ToolTip": "C:\\Users\\JONATHAN\\Desktop\\Tareas Programacion I\\Desafiospart2\\DesafiosPart2\\Desafio1\\Program.cs",
               "RelativeToolTip": "Desafio1\\Program.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAYAAAANAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-02T04:59:55.49Z",
               "EditorCaption": ""

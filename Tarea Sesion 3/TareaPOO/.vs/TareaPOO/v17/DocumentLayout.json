@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JONATHAN\\Desktop\\Tarea Sesion 3\\TareaPOO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3720DD54-321B-48AA-9BF5-FCF1A972416D}|TareaPOO\\TareaPOO.csproj|c:\\users\\jonathan\\desktop\\tarea sesion 3\\tareapoo\\tareapoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3720DD54-321B-48AA-9BF5-FCF1A972416D}|TareaPOO\\TareaPOO.csproj|solutionrelative:tareapoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JONATHAN\\Desktop\\Tarea Sesion 3\\TareaPOO\\TareaPOO\\Program.cs",
+              "RelativeDocumentMoniker": "TareaPOO\\Program.cs",
+              "ToolTip": "C:\\Users\\JONATHAN\\Desktop\\Tarea Sesion 3\\TareaPOO\\TareaPOO\\Program.cs",
+              "RelativeToolTip": "TareaPOO\\Program.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAEYAAACBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T04:41:41.285Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

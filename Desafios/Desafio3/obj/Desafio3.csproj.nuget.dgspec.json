@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JONATHAN\\Desktop\\Curso C#\\Desafios\\Desafio3\\Desafio3.csproj": {}
+    "C:\\Users\\JONATHAN\\Desktop\\Tareas Programacion I\\Desafios\\Desafio3\\Desafio3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JONATHAN\\Desktop\\Curso C#\\Desafios\\Desafio3\\Desafio3.csproj": {
+    "C:\\Users\\JONATHAN\\Desktop\\Tareas Programacion I\\Desafios\\Desafio3\\Desafio3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JONATHAN\\Desktop\\Curso C#\\Desafios\\Desafio3\\Desafio3.csproj",
+        "projectUniqueName": "C:\\Users\\JONATHAN\\Desktop\\Tareas Programacion I\\Desafios\\Desafio3\\Desafio3.csproj",
         "projectName": "Desafio3",
-        "projectPath": "C:\\Users\\JONATHAN\\Desktop\\Curso C#\\Desafios\\Desafio3\\Desafio3.csproj",
+        "projectPath": "C:\\Users\\JONATHAN\\Desktop\\Tareas Programacion I\\Desafios\\Desafio3\\Desafio3.csproj",
         "packagesPath": "C:\\Users\\JONATHAN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JONATHAN\\Desktop\\Curso C#\\Desafios\\Desafio3\\obj\\",
+        "outputPath": "C:\\Users\\JONATHAN\\Desktop\\Tareas Programacion I\\Desafios\\Desafio3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\JONATHAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
