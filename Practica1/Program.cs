@@ -11,7 +11,7 @@ namespace Proyecto1
             pizarra1.Escribir("Hola estudiantes");
 
             Console.WriteLine(pizarra1.GetContenido());
-
+            Console.ReadLine();
         }
     }
 }

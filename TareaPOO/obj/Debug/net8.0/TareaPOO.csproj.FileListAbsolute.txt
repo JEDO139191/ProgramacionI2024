@@ -12,3 +12,18 @@ C:\Users\JONATHAN\Desktop\Programacion I\EjercicioPOO\TareaPOO\TareaPOO\obj\Debu
 C:\Users\JONATHAN\Desktop\Programacion I\EjercicioPOO\TareaPOO\TareaPOO\obj\Debug\net8.0\TareaPOO.pdb
 C:\Users\JONATHAN\Desktop\Programacion I\EjercicioPOO\TareaPOO\TareaPOO\obj\Debug\net8.0\TareaPOO.genruntimeconfig.cache
 C:\Users\JONATHAN\Desktop\Programacion I\EjercicioPOO\TareaPOO\TareaPOO\obj\Debug\net8.0\ref\TareaPOO.dll
+C:\Users\JONATHAN\Desktop\Tareas Programacion I\TareaPOO\bin\Debug\net8.0\TareaPOO.exe
+C:\Users\JONATHAN\Desktop\Tareas Programacion I\TareaPOO\bin\Debug\net8.0\TareaPOO.deps.json
+C:\Users\JONATHAN\Desktop\Tareas Programacion I\TareaPOO\bin\Debug\net8.0\TareaPOO.runtimeconfig.json
+C:\Users\JONATHAN\Desktop\Tareas Programacion I\TareaPOO\bin\Debug\net8.0\TareaPOO.dll
+C:\Users\JONATHAN\Desktop\Tareas Programacion I\TareaPOO\bin\Debug\net8.0\TareaPOO.pdb
+C:\Users\JONATHAN\Desktop\Tareas Programacion I\TareaPOO\obj\Debug\net8.0\TareaPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JONATHAN\Desktop\Tareas Programacion I\TareaPOO\obj\Debug\net8.0\TareaPOO.AssemblyInfoInputs.cache
+C:\Users\JONATHAN\Desktop\Tareas Programacion I\TareaPOO\obj\Debug\net8.0\TareaPOO.AssemblyInfo.cs
+C:\Users\JONATHAN\Desktop\Tareas Programacion I\TareaPOO\obj\Debug\net8.0\TareaPOO.csproj.CoreCompileInputs.cache
+C:\Users\JONATHAN\Desktop\Tareas Programacion I\TareaPOO\obj\Debug\net8.0\TareaPOO.sourcelink.json
+C:\Users\JONATHAN\Desktop\Tareas Programacion I\TareaPOO\obj\Debug\net8.0\TareaPOO.dll
+C:\Users\JONATHAN\Desktop\Tareas Programacion I\TareaPOO\obj\Debug\net8.0\refint\TareaPOO.dll
+C:\Users\JONATHAN\Desktop\Tareas Programacion I\TareaPOO\obj\Debug\net8.0\TareaPOO.pdb
+C:\Users\JONATHAN\Desktop\Tareas Programacion I\TareaPOO\obj\Debug\net8.0\TareaPOO.genruntimeconfig.cache
+C:\Users\JONATHAN\Desktop\Tareas Programacion I\TareaPOO\obj\Debug\net8.0\ref\TareaPOO.dll
