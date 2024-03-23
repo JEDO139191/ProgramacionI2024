@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JONATHAN\\Desktop\\Tareas Programacion I\\DESAFIOS SEMANA7\\DesafiosSemana7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D723470-77BB-43DC-9C63-D83118504140}|ConsoleApp1\\desafio1.csproj|c:\\users\\jonathan\\desktop\\tareas programacion i\\desafios semana7\\desafiossemana7\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D723470-77BB-43DC-9C63-D83118504140}|ConsoleApp1\\desafio1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D723470-77BB-43DC-9C63-D83118504140}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\JONATHAN\\Desktop\\Tareas Programacion I\\DESAFIOS SEMANA7\\DesafiosSemana7\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D723470-77BB-43DC-9C63-D83118504140}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB450228-DAA7-4D9D-9049-AD7B572ED5BB}|desafio2\\desafio2.csproj|c:\\users\\jonathan\\desktop\\tareas programacion i\\desafios semana7\\desafiossemana7\\desafio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB450228-DAA7-4D9D-9049-AD7B572ED5BB}|desafio2\\desafio2.csproj|solutionrelative:desafio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F76EA0-279C-4577-8220-82D9EC602BA0}|desafio3\\desafio3.csproj|c:\\users\\jonathan\\desktop\\tareas programacion i\\desafios semana7\\desafiossemana7\\desafio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49F76EA0-279C-4577-8220-82D9EC602BA0}|desafio3\\desafio3.csproj|solutionrelative:desafio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JONATHAN\\Desktop\\Tareas Programacion I\\DESAFIOS SEMANA7\\DesafiosSemana7\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\JONATHAN\\Desktop\\Tareas Programacion I\\DESAFIOS SEMANA7\\DesafiosSemana7\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwHAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T05:16:36.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JONATHAN\\Desktop\\Tareas Programacion I\\DESAFIOS SEMANA7\\DesafiosSemana7\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\JONATHAN\\Desktop\\Tareas Programacion I\\DESAFIOS SEMANA7\\DesafiosSemana7\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAAAAAHAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T03:50:28.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JONATHAN\\Desktop\\Tareas Programacion I\\DESAFIOS SEMANA7\\DesafiosSemana7\\desafio3\\Program.cs",
+              "RelativeDocumentMoniker": "desafio3\\Program.cs",
+              "ToolTip": "C:\\Users\\JONATHAN\\Desktop\\Tareas Programacion I\\DESAFIOS SEMANA7\\DesafiosSemana7\\desafio3\\Program.cs",
+              "RelativeToolTip": "desafio3\\Program.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T05:16:27.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JONATHAN\\Desktop\\Tareas Programacion I\\DESAFIOS SEMANA7\\DesafiosSemana7\\desafio2\\Program.cs",
+              "RelativeDocumentMoniker": "desafio2\\Program.cs",
+              "ToolTip": "C:\\Users\\JONATHAN\\Desktop\\Tareas Programacion I\\DESAFIOS SEMANA7\\DesafiosSemana7\\desafio2\\Program.cs",
+              "RelativeToolTip": "desafio2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T05:16:24.056Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
