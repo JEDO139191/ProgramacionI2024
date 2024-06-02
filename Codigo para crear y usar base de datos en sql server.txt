@@ -1,0 +1,70 @@
+--BASE DE DATOS
+create database ProyectoSAIE
+go
+use ProyectoSAIE
+go
+
+--TABLAS
+create table Users(
+id int identity(1,1) primary key,
+userName nvarchar (100) unique not null,
+password nvarchar (100) not null,
+firstName nvarchar(100) not null,
+lastName nvarchar(100) not null,
+position nvarchar (100) not null,
+email nvarchar(100) unique not null,
+profilePicture varbinary(max)
+)
+go
+ 
+ --Agregar usuarios
+insert into Users values ( 'admin','admin','Juanito','Boca Toro','Director','Juanito@gmail.com',null)
+insert into Users values ( 'Liza','123456','Elizabeth','Arriaga','Secretaria','Liza@outlook.com',null)
+
+
+---Mostrar usuarios
+select *from Users
+
+
+
+create table Users(
+id int identity(1,1) primary key,
+userName nvarchar (100) unique not null,
+password nvarchar (100) not null,
+firstName nvarchar(100) not null,
+lastName nvarchar(100) not null,
+position nvarchar (100) not null,
+email nvarchar(100) unique not null,
+profilePicture varbinary(max)
+)
+go
+
+
+--Crear tabla alumnos
+
+create table alumnos (
+Numero int primary ley,
+Nombre varchar(50) not null,
+Apellido varchar(50) not null,
+Carnet varchar(50) not null,
+Fechas_inscripcion date not null,
+Fecha_nacimiento date not null,
+Grado varchar(50) not null,
+Seccion varchar(50)not null,
+Numero_telefono_encargado varchar(50)not null,
+nombre_encargado varchar(50)not null,
+Check_pago bit not null,
+)
+
+--Crear tababla calificaciones
+
+create table Calificaciones_alumnos (
+Carnet varchar(50) primary key,
+Espanol varchar(50)not null,
+Ingles varchar(50)not null,
+Matematicas varchar(50)not null,
+Ciencias_Naturales varchar(50)not null,
+Ciencias_Sociales varchar(50)not null,
+Computacion varchar(50)not null,
+Contabilidad varchar(50)not null,
+Fisica varchar(50)not null,

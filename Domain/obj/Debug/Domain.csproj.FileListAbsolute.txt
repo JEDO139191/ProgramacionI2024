@@ -1,0 +1,64 @@
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Domain\bin\Debug\Domain.dll
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Domain\bin\Debug\Domain.pdb
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Domain\bin\Debug\Common.dll
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Domain\bin\Debug\DataAccess.dll
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Domain\bin\Debug\Common.pdb
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Domain\bin\Debug\DataAccess.pdb
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Domain\obj\Debug\Domain.dll
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Domain\obj\Debug\Domain.pdb
+D:\Descargas\proyecto\CS-Login_Project-SQL-IL\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Domain\bin\Debug\Domain.dll
+D:\Descargas\proyecto\CS-Login_Project-SQL-IL\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Domain\bin\Debug\Domain.pdb
+D:\Descargas\proyecto\CS-Login_Project-SQL-IL\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Domain\bin\Debug\Common.dll
+D:\Descargas\proyecto\CS-Login_Project-SQL-IL\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Domain\bin\Debug\DataAccess.dll
+D:\Descargas\proyecto\CS-Login_Project-SQL-IL\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Domain\bin\Debug\Common.pdb
+D:\Descargas\proyecto\CS-Login_Project-SQL-IL\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Domain\bin\Debug\DataAccess.pdb
+D:\Descargas\proyecto\CS-Login_Project-SQL-IL\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
+D:\Descargas\proyecto\CS-Login_Project-SQL-IL\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+D:\Descargas\proyecto\CS-Login_Project-SQL-IL\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Domain\obj\Debug\Domain.csproj.Up2Date
+D:\Descargas\proyecto\CS-Login_Project-SQL-IL\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Domain\obj\Debug\Domain.dll
+D:\Descargas\proyecto\CS-Login_Project-SQL-IL\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Domain\obj\Debug\Domain.pdb
+C:\Users\JONATHAN\Desktop\PROYECTO BASE\PROYECTO SAIE\SAIE\Domain\bin\Debug\Domain.dll
+C:\Users\JONATHAN\Desktop\PROYECTO BASE\PROYECTO SAIE\SAIE\Domain\bin\Debug\Domain.pdb
+C:\Users\JONATHAN\Desktop\PROYECTO BASE\PROYECTO SAIE\SAIE\Domain\bin\Debug\Common.dll
+C:\Users\JONATHAN\Desktop\PROYECTO BASE\PROYECTO SAIE\SAIE\Domain\bin\Debug\DataAccess.dll
+C:\Users\JONATHAN\Desktop\PROYECTO BASE\PROYECTO SAIE\SAIE\Domain\bin\Debug\Common.pdb
+C:\Users\JONATHAN\Desktop\PROYECTO BASE\PROYECTO SAIE\SAIE\Domain\bin\Debug\DataAccess.pdb
+C:\Users\JONATHAN\Desktop\PROYECTO BASE\PROYECTO SAIE\SAIE\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
+C:\Users\JONATHAN\Desktop\PROYECTO BASE\PROYECTO SAIE\SAIE\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\JONATHAN\Desktop\PROYECTO BASE\PROYECTO SAIE\SAIE\Domain\obj\Debug\Domain.csproj.Up2Date
+C:\Users\JONATHAN\Desktop\PROYECTO BASE\PROYECTO SAIE\SAIE\Domain\obj\Debug\Domain.dll
+C:\Users\JONATHAN\Desktop\PROYECTO BASE\PROYECTO SAIE\SAIE\Domain\obj\Debug\Domain.pdb
+C:\Users\JONATHAN\Desktop\PROYECTO SAIE\SAIE\Domain\bin\Debug\Domain.dll
+C:\Users\JONATHAN\Desktop\PROYECTO SAIE\SAIE\Domain\bin\Debug\Domain.pdb
+C:\Users\JONATHAN\Desktop\PROYECTO SAIE\SAIE\Domain\bin\Debug\Common.dll
+C:\Users\JONATHAN\Desktop\PROYECTO SAIE\SAIE\Domain\bin\Debug\DataAccess.dll
+C:\Users\JONATHAN\Desktop\PROYECTO SAIE\SAIE\Domain\bin\Debug\Common.pdb
+C:\Users\JONATHAN\Desktop\PROYECTO SAIE\SAIE\Domain\bin\Debug\DataAccess.pdb
+C:\Users\JONATHAN\Desktop\PROYECTO SAIE\SAIE\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
+C:\Users\JONATHAN\Desktop\PROYECTO SAIE\SAIE\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\JONATHAN\Desktop\PROYECTO SAIE\SAIE\Domain\obj\Debug\Domain.csproj.Up2Date
+C:\Users\JONATHAN\Desktop\PROYECTO SAIE\SAIE\Domain\obj\Debug\Domain.dll
+C:\Users\JONATHAN\Desktop\PROYECTO SAIE\SAIE\Domain\obj\Debug\Domain.pdb
+C:\Users\jomir\source\repos\SAIE\Domain\bin\Debug\Domain.dll
+C:\Users\jomir\source\repos\SAIE\Domain\bin\Debug\Domain.pdb
+C:\Users\jomir\source\repos\SAIE\Domain\bin\Debug\Common.dll
+C:\Users\jomir\source\repos\SAIE\Domain\bin\Debug\DataAccess.dll
+C:\Users\jomir\source\repos\SAIE\Domain\bin\Debug\Common.pdb
+C:\Users\jomir\source\repos\SAIE\Domain\bin\Debug\DataAccess.pdb
+C:\Users\jomir\source\repos\SAIE\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
+C:\Users\jomir\source\repos\SAIE\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\jomir\source\repos\SAIE\Domain\obj\Debug\Domain.csproj.CopyComplete
+C:\Users\jomir\source\repos\SAIE\Domain\obj\Debug\Domain.dll
+C:\Users\jomir\source\repos\SAIE\Domain\obj\Debug\Domain.pdb
+C:\Users\jomir\OneDrive\Documentos\GitHub\Programaci-nI2024\SAIE\Domain\bin\Debug\Domain.dll
+C:\Users\jomir\OneDrive\Documentos\GitHub\Programaci-nI2024\SAIE\Domain\bin\Debug\Domain.pdb
+C:\Users\jomir\OneDrive\Documentos\GitHub\Programaci-nI2024\SAIE\Domain\bin\Debug\Common.dll
+C:\Users\jomir\OneDrive\Documentos\GitHub\Programaci-nI2024\SAIE\Domain\bin\Debug\DataAccess.dll
+C:\Users\jomir\OneDrive\Documentos\GitHub\Programaci-nI2024\SAIE\Domain\bin\Debug\Common.pdb
+C:\Users\jomir\OneDrive\Documentos\GitHub\Programaci-nI2024\SAIE\Domain\bin\Debug\DataAccess.pdb
+C:\Users\jomir\OneDrive\Documentos\GitHub\Programaci-nI2024\SAIE\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
+C:\Users\jomir\OneDrive\Documentos\GitHub\Programaci-nI2024\SAIE\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\jomir\OneDrive\Documentos\GitHub\Programaci-nI2024\SAIE\Domain\obj\Debug\Domain.csproj.CopyComplete
+C:\Users\jomir\OneDrive\Documentos\GitHub\Programaci-nI2024\SAIE\Domain\obj\Debug\Domain.dll
+C:\Users\jomir\OneDrive\Documentos\GitHub\Programaci-nI2024\SAIE\Domain\obj\Debug\Domain.pdb

@@ -1,0 +1,16 @@
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\DataAccess\bin\Debug\DataAccess.dll
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\DataAccess\bin\Debug\DataAccess.pdb
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\DataAccess\bin\Debug\Common.dll
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\DataAccess\bin\Debug\Common.pdb
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\DataAccess\obj\Debug\DataAccess.dll
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\DataAccess\obj\Debug\DataAccess.pdb
+D:\Descargas\proyecto\CS-Login_Project-SQL-IL\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\DataAccess\bin\Debug\DataAccess.dll
+D:\Descargas\proyecto\CS-Login_Project-SQL-IL\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\DataAccess\bin\Debug\DataAccess.pdb
+D:\Descargas\proyecto\CS-Login_Project-SQL-IL\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\DataAccess\bin\Debug\Common.dll
+D:\Descargas\proyecto\CS-Login_Project-SQL-IL\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\DataAccess\bin\Debug\Common.pdb
+D:\Descargas\proyecto\CS-Login_Project-SQL-IL\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+D:\Descargas\proyecto\CS-Login_Project-SQL-IL\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+D:\Descargas\proyecto\CS-Login_Project-SQL-IL\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\DataAccess\obj\Debug\DataAccess.csproj.Up2Date
+D:\Descargas\proyecto\CS-Login_Project-SQL-IL\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\DataAccess\obj\Debug\DataAccess.dll
+D:\Descargas\proyecto\CS-Login_Project-SQL-IL\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\DataAccess\obj\Debug\DataAccess.pdb

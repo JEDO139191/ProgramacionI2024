@@ -1,0 +1,228 @@
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Presentation\bin\Debug\Presentation.exe.config
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.csprojResolveAssemblyReference.cache
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.csproj.GenerateResource.Cache
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Presentation\bin\Debug\Presentation.exe
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Presentation\bin\Debug\Presentation.pdb
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Presentation\bin\Debug\Common.dll
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Presentation\bin\Debug\Domain.dll
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Presentation\bin\Debug\DataAccess.dll
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Presentation\bin\Debug\Common.pdb
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Presentation\bin\Debug\Domain.pdb
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Presentation\bin\Debug\DataAccess.pdb
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.exe
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.pdb
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.LoginForm.resources
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.MainForm.resources
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.ChildForms.FormRecoverPassword.resources
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Presentation\bin\Debug\CircularProgressBar.dll
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Presentation\bin\Debug\WinFormAnimation.dll
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Presentation\bin\Debug\CircularProgressBar.xml
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.WelcomeForm.resources
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.ChildForms.FormCalendar.resources
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.ChildForms.FormHistory.resources
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.ChildForms.FormPacients.resources
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.ChildForms.FormReports.resources
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.ChildForms.FormUserProfile.resources
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.ChildForms.FormUsers.resources
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.ChildForms.FormUserMaintenance.resources
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.ChildForms.FormVerifyUser.resources
+D:\Descargas\proyecto\CS-Login_Project-SQL-IL\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\bin\Debug\Presentation.exe.config
+D:\Descargas\proyecto\CS-Login_Project-SQL-IL\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\bin\Debug\Presentation.exe
+D:\Descargas\proyecto\CS-Login_Project-SQL-IL\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\bin\Debug\Presentation.pdb
+D:\Descargas\proyecto\CS-Login_Project-SQL-IL\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\bin\Debug\CircularProgressBar.dll
+D:\Descargas\proyecto\CS-Login_Project-SQL-IL\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\bin\Debug\Common.dll
+D:\Descargas\proyecto\CS-Login_Project-SQL-IL\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\bin\Debug\Domain.dll
+D:\Descargas\proyecto\CS-Login_Project-SQL-IL\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\bin\Debug\WinFormAnimation.dll
+D:\Descargas\proyecto\CS-Login_Project-SQL-IL\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\bin\Debug\DataAccess.dll
+D:\Descargas\proyecto\CS-Login_Project-SQL-IL\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\bin\Debug\Common.pdb
+D:\Descargas\proyecto\CS-Login_Project-SQL-IL\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\bin\Debug\Domain.pdb
+D:\Descargas\proyecto\CS-Login_Project-SQL-IL\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\bin\Debug\CircularProgressBar.xml
+D:\Descargas\proyecto\CS-Login_Project-SQL-IL\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\bin\Debug\DataAccess.pdb
+D:\Descargas\proyecto\CS-Login_Project-SQL-IL\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.csproj.AssemblyReference.cache
+D:\Descargas\proyecto\CS-Login_Project-SQL-IL\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.ChildForms.FormCalendar.resources
+D:\Descargas\proyecto\CS-Login_Project-SQL-IL\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.ChildForms.FormHistory.resources
+D:\Descargas\proyecto\CS-Login_Project-SQL-IL\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.ChildForms.FormPacients.resources
+D:\Descargas\proyecto\CS-Login_Project-SQL-IL\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.ChildForms.FormRecoverPassword.resources
+D:\Descargas\proyecto\CS-Login_Project-SQL-IL\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.ChildForms.FormReports.resources
+D:\Descargas\proyecto\CS-Login_Project-SQL-IL\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.ChildForms.FormUserMaintenance.resources
+D:\Descargas\proyecto\CS-Login_Project-SQL-IL\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.ChildForms.FormUserProfile.resources
+D:\Descargas\proyecto\CS-Login_Project-SQL-IL\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.ChildForms.FormUsers.resources
+D:\Descargas\proyecto\CS-Login_Project-SQL-IL\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.ChildForms.FormVerifyUser.resources
+D:\Descargas\proyecto\CS-Login_Project-SQL-IL\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.LoginForm.resources
+D:\Descargas\proyecto\CS-Login_Project-SQL-IL\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.MainForm.resources
+D:\Descargas\proyecto\CS-Login_Project-SQL-IL\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+D:\Descargas\proyecto\CS-Login_Project-SQL-IL\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.WelcomeForm.resources
+D:\Descargas\proyecto\CS-Login_Project-SQL-IL\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.csproj.GenerateResource.cache
+D:\Descargas\proyecto\CS-Login_Project-SQL-IL\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+D:\Descargas\proyecto\CS-Login_Project-SQL-IL\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presenta.BC777DBE.Up2Date
+D:\Descargas\proyecto\CS-Login_Project-SQL-IL\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.exe
+D:\Descargas\proyecto\CS-Login_Project-SQL-IL\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.pdb
+C:\Users\JONATHAN\Desktop\PROYECTO BASE\PROYECTO SAIE\SAIE\Presentation\bin\Debug\Presentation.exe.config
+C:\Users\JONATHAN\Desktop\PROYECTO BASE\PROYECTO SAIE\SAIE\Presentation\bin\Debug\Presentation.exe
+C:\Users\JONATHAN\Desktop\PROYECTO BASE\PROYECTO SAIE\SAIE\Presentation\bin\Debug\Presentation.pdb
+C:\Users\JONATHAN\Desktop\PROYECTO BASE\PROYECTO SAIE\SAIE\Presentation\bin\Debug\CircularProgressBar.dll
+C:\Users\JONATHAN\Desktop\PROYECTO BASE\PROYECTO SAIE\SAIE\Presentation\bin\Debug\Common.dll
+C:\Users\JONATHAN\Desktop\PROYECTO BASE\PROYECTO SAIE\SAIE\Presentation\bin\Debug\Domain.dll
+C:\Users\JONATHAN\Desktop\PROYECTO BASE\PROYECTO SAIE\SAIE\Presentation\bin\Debug\WinFormAnimation.dll
+C:\Users\JONATHAN\Desktop\PROYECTO BASE\PROYECTO SAIE\SAIE\Presentation\bin\Debug\DataAccess.dll
+C:\Users\JONATHAN\Desktop\PROYECTO BASE\PROYECTO SAIE\SAIE\Presentation\bin\Debug\Common.pdb
+C:\Users\JONATHAN\Desktop\PROYECTO BASE\PROYECTO SAIE\SAIE\Presentation\bin\Debug\Domain.pdb
+C:\Users\JONATHAN\Desktop\PROYECTO BASE\PROYECTO SAIE\SAIE\Presentation\bin\Debug\CircularProgressBar.xml
+C:\Users\JONATHAN\Desktop\PROYECTO BASE\PROYECTO SAIE\SAIE\Presentation\bin\Debug\DataAccess.pdb
+C:\Users\JONATHAN\Desktop\PROYECTO BASE\PROYECTO SAIE\SAIE\Presentation\obj\Debug\Presentation.csproj.AssemblyReference.cache
+C:\Users\JONATHAN\Desktop\PROYECTO BASE\PROYECTO SAIE\SAIE\Presentation\obj\Debug\Presentation.ChildForms.FormReports.resources
+C:\Users\JONATHAN\Desktop\PROYECTO BASE\PROYECTO SAIE\SAIE\Presentation\obj\Debug\Presentation.ChildForms.FormUserMaintenance.resources
+C:\Users\JONATHAN\Desktop\PROYECTO BASE\PROYECTO SAIE\SAIE\Presentation\obj\Debug\Presentation.ChildForms.FormUserProfile.resources
+C:\Users\JONATHAN\Desktop\PROYECTO BASE\PROYECTO SAIE\SAIE\Presentation\obj\Debug\Presentation.ChildForms.FormUsers.resources
+C:\Users\JONATHAN\Desktop\PROYECTO BASE\PROYECTO SAIE\SAIE\Presentation\obj\Debug\Presentation.ChildForms.FormVerifyUser.resources
+C:\Users\JONATHAN\Desktop\PROYECTO BASE\PROYECTO SAIE\SAIE\Presentation\obj\Debug\Presentation.LoginForm.resources
+C:\Users\JONATHAN\Desktop\PROYECTO BASE\PROYECTO SAIE\SAIE\Presentation\obj\Debug\Presentation.MainForm.resources
+C:\Users\JONATHAN\Desktop\PROYECTO BASE\PROYECTO SAIE\SAIE\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+C:\Users\JONATHAN\Desktop\PROYECTO BASE\PROYECTO SAIE\SAIE\Presentation\obj\Debug\Presentation.WelcomeForm.resources
+C:\Users\JONATHAN\Desktop\PROYECTO BASE\PROYECTO SAIE\SAIE\Presentation\obj\Debug\Presentation.csproj.GenerateResource.cache
+C:\Users\JONATHAN\Desktop\PROYECTO BASE\PROYECTO SAIE\SAIE\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\JONATHAN\Desktop\PROYECTO BASE\PROYECTO SAIE\SAIE\Presentation\obj\Debug\Presenta.BC777DBE.Up2Date
+C:\Users\JONATHAN\Desktop\PROYECTO BASE\PROYECTO SAIE\SAIE\Presentation\obj\Debug\Presentation.exe
+C:\Users\JONATHAN\Desktop\PROYECTO BASE\PROYECTO SAIE\SAIE\Presentation\obj\Debug\Presentation.pdb
+C:\Users\JONATHAN\Desktop\PROYECTO BASE\PROYECTO BASE\PROYECTO SAIE\SAIE\Presentation\bin\Debug\Presentation.exe.config
+C:\Users\JONATHAN\Desktop\PROYECTO BASE\PROYECTO BASE\PROYECTO SAIE\SAIE\Presentation\bin\Debug\Presentation.exe
+C:\Users\JONATHAN\Desktop\PROYECTO BASE\PROYECTO BASE\PROYECTO SAIE\SAIE\Presentation\bin\Debug\Presentation.pdb
+C:\Users\JONATHAN\Desktop\PROYECTO BASE\PROYECTO BASE\PROYECTO SAIE\SAIE\Presentation\bin\Debug\CircularProgressBar.dll
+C:\Users\JONATHAN\Desktop\PROYECTO BASE\PROYECTO BASE\PROYECTO SAIE\SAIE\Presentation\bin\Debug\Common.dll
+C:\Users\JONATHAN\Desktop\PROYECTO BASE\PROYECTO BASE\PROYECTO SAIE\SAIE\Presentation\bin\Debug\Domain.dll
+C:\Users\JONATHAN\Desktop\PROYECTO BASE\PROYECTO BASE\PROYECTO SAIE\SAIE\Presentation\bin\Debug\WinFormAnimation.dll
+C:\Users\JONATHAN\Desktop\PROYECTO BASE\PROYECTO BASE\PROYECTO SAIE\SAIE\Presentation\bin\Debug\DataAccess.dll
+C:\Users\JONATHAN\Desktop\PROYECTO BASE\PROYECTO BASE\PROYECTO SAIE\SAIE\Presentation\bin\Debug\Common.pdb
+C:\Users\JONATHAN\Desktop\PROYECTO BASE\PROYECTO BASE\PROYECTO SAIE\SAIE\Presentation\bin\Debug\Domain.pdb
+C:\Users\JONATHAN\Desktop\PROYECTO BASE\PROYECTO BASE\PROYECTO SAIE\SAIE\Presentation\bin\Debug\CircularProgressBar.xml
+C:\Users\JONATHAN\Desktop\PROYECTO BASE\PROYECTO BASE\PROYECTO SAIE\SAIE\Presentation\bin\Debug\DataAccess.pdb
+C:\Users\JONATHAN\Desktop\PROYECTO BASE\PROYECTO BASE\PROYECTO SAIE\SAIE\Presentation\obj\Debug\Presentation.csproj.AssemblyReference.cache
+C:\Users\JONATHAN\Desktop\PROYECTO BASE\PROYECTO BASE\PROYECTO SAIE\SAIE\Presentation\obj\Debug\Presentation.ChildForms.FormReports.resources
+C:\Users\JONATHAN\Desktop\PROYECTO BASE\PROYECTO BASE\PROYECTO SAIE\SAIE\Presentation\obj\Debug\Presentation.ChildForms.FormUserMaintenance.resources
+C:\Users\JONATHAN\Desktop\PROYECTO BASE\PROYECTO BASE\PROYECTO SAIE\SAIE\Presentation\obj\Debug\Presentation.ChildForms.FormUserProfile.resources
+C:\Users\JONATHAN\Desktop\PROYECTO BASE\PROYECTO BASE\PROYECTO SAIE\SAIE\Presentation\obj\Debug\Presentation.ChildForms.FormUsers.resources
+C:\Users\JONATHAN\Desktop\PROYECTO BASE\PROYECTO BASE\PROYECTO SAIE\SAIE\Presentation\obj\Debug\Presentation.ChildForms.FormVerifyUser.resources
+C:\Users\JONATHAN\Desktop\PROYECTO BASE\PROYECTO BASE\PROYECTO SAIE\SAIE\Presentation\obj\Debug\Presentation.LoginForm.resources
+C:\Users\JONATHAN\Desktop\PROYECTO BASE\PROYECTO BASE\PROYECTO SAIE\SAIE\Presentation\obj\Debug\Presentation.MainForm.resources
+C:\Users\JONATHAN\Desktop\PROYECTO BASE\PROYECTO BASE\PROYECTO SAIE\SAIE\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+C:\Users\JONATHAN\Desktop\PROYECTO BASE\PROYECTO BASE\PROYECTO SAIE\SAIE\Presentation\obj\Debug\Presentation.WelcomeForm.resources
+C:\Users\JONATHAN\Desktop\PROYECTO BASE\PROYECTO BASE\PROYECTO SAIE\SAIE\Presentation\obj\Debug\Presentation.csproj.GenerateResource.cache
+C:\Users\JONATHAN\Desktop\PROYECTO BASE\PROYECTO BASE\PROYECTO SAIE\SAIE\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\JONATHAN\Desktop\PROYECTO BASE\PROYECTO BASE\PROYECTO SAIE\SAIE\Presentation\obj\Debug\Presenta.BC777DBE.Up2Date
+C:\Users\JONATHAN\Desktop\PROYECTO BASE\PROYECTO BASE\PROYECTO SAIE\SAIE\Presentation\obj\Debug\Presentation.exe
+C:\Users\JONATHAN\Desktop\PROYECTO BASE\PROYECTO BASE\PROYECTO SAIE\SAIE\Presentation\obj\Debug\Presentation.pdb
+C:\Users\JONATHAN\Desktop\PROYECTO SAIE\SAIE\Presentation\bin\Debug\Presentation.exe.config
+C:\Users\JONATHAN\Desktop\PROYECTO SAIE\SAIE\Presentation\bin\Debug\Presentation.exe
+C:\Users\JONATHAN\Desktop\PROYECTO SAIE\SAIE\Presentation\bin\Debug\Presentation.pdb
+C:\Users\JONATHAN\Desktop\PROYECTO SAIE\SAIE\Presentation\bin\Debug\CircularProgressBar.dll
+C:\Users\JONATHAN\Desktop\PROYECTO SAIE\SAIE\Presentation\bin\Debug\Common.dll
+C:\Users\JONATHAN\Desktop\PROYECTO SAIE\SAIE\Presentation\bin\Debug\Domain.dll
+C:\Users\JONATHAN\Desktop\PROYECTO SAIE\SAIE\Presentation\bin\Debug\WinFormAnimation.dll
+C:\Users\JONATHAN\Desktop\PROYECTO SAIE\SAIE\Presentation\bin\Debug\DataAccess.dll
+C:\Users\JONATHAN\Desktop\PROYECTO SAIE\SAIE\Presentation\bin\Debug\Common.pdb
+C:\Users\JONATHAN\Desktop\PROYECTO SAIE\SAIE\Presentation\bin\Debug\Domain.pdb
+C:\Users\JONATHAN\Desktop\PROYECTO SAIE\SAIE\Presentation\bin\Debug\CircularProgressBar.xml
+C:\Users\JONATHAN\Desktop\PROYECTO SAIE\SAIE\Presentation\bin\Debug\DataAccess.pdb
+C:\Users\JONATHAN\Desktop\PROYECTO SAIE\SAIE\Presentation\obj\Debug\Presentation.csproj.AssemblyReference.cache
+C:\Users\JONATHAN\Desktop\PROYECTO SAIE\SAIE\Presentation\obj\Debug\Presentation.ChildForms.FormUserMaintenance.resources
+C:\Users\JONATHAN\Desktop\PROYECTO SAIE\SAIE\Presentation\obj\Debug\Presentation.ChildForms.FormUsers.resources
+C:\Users\JONATHAN\Desktop\PROYECTO SAIE\SAIE\Presentation\obj\Debug\Presentation.LoginForm.resources
+C:\Users\JONATHAN\Desktop\PROYECTO SAIE\SAIE\Presentation\obj\Debug\Presentation.MainForm.resources
+C:\Users\JONATHAN\Desktop\PROYECTO SAIE\SAIE\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+C:\Users\JONATHAN\Desktop\PROYECTO SAIE\SAIE\Presentation\obj\Debug\Presentation.WelcomeForm.resources
+C:\Users\JONATHAN\Desktop\PROYECTO SAIE\SAIE\Presentation\obj\Debug\Presentation.csproj.GenerateResource.cache
+C:\Users\JONATHAN\Desktop\PROYECTO SAIE\SAIE\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\JONATHAN\Desktop\PROYECTO SAIE\SAIE\Presentation\obj\Debug\Presenta.BC777DBE.Up2Date
+C:\Users\JONATHAN\Desktop\PROYECTO SAIE\SAIE\Presentation\obj\Debug\Presentation.exe
+C:\Users\JONATHAN\Desktop\PROYECTO SAIE\SAIE\Presentation\obj\Debug\Presentation.pdb
+C:\Users\JONATHAN\Desktop\PROYECTO SAIE\SAIE\Presentation\obj\Debug\Presentation.BaseForms.BaseFixedForm.resources
+C:\Users\JONATHAN\Desktop\PROYECTO SAIE\SAIE\Presentation\obj\Debug\Presentation.BaseForms.BaseMainForm.resources
+C:\Users\JONATHAN\Desktop\SAIE el que sirve\PROYECTO SAIE\SAIE\Presentation\bin\Debug\Presentation.exe.config
+C:\Users\JONATHAN\Desktop\SAIE el que sirve\PROYECTO SAIE\SAIE\Presentation\bin\Debug\Presentation.exe
+C:\Users\JONATHAN\Desktop\SAIE el que sirve\PROYECTO SAIE\SAIE\Presentation\bin\Debug\Presentation.pdb
+C:\Users\JONATHAN\Desktop\SAIE el que sirve\PROYECTO SAIE\SAIE\Presentation\bin\Debug\CircularProgressBar.dll
+C:\Users\JONATHAN\Desktop\SAIE el que sirve\PROYECTO SAIE\SAIE\Presentation\bin\Debug\Common.dll
+C:\Users\JONATHAN\Desktop\SAIE el que sirve\PROYECTO SAIE\SAIE\Presentation\bin\Debug\Domain.dll
+C:\Users\JONATHAN\Desktop\SAIE el que sirve\PROYECTO SAIE\SAIE\Presentation\bin\Debug\WinFormAnimation.dll
+C:\Users\JONATHAN\Desktop\SAIE el que sirve\PROYECTO SAIE\SAIE\Presentation\bin\Debug\DataAccess.dll
+C:\Users\JONATHAN\Desktop\SAIE el que sirve\PROYECTO SAIE\SAIE\Presentation\bin\Debug\Common.pdb
+C:\Users\JONATHAN\Desktop\SAIE el que sirve\PROYECTO SAIE\SAIE\Presentation\bin\Debug\Domain.pdb
+C:\Users\JONATHAN\Desktop\SAIE el que sirve\PROYECTO SAIE\SAIE\Presentation\bin\Debug\CircularProgressBar.xml
+C:\Users\JONATHAN\Desktop\SAIE el que sirve\PROYECTO SAIE\SAIE\Presentation\bin\Debug\DataAccess.pdb
+C:\Users\JONATHAN\Desktop\SAIE el que sirve\PROYECTO SAIE\SAIE\Presentation\obj\Debug\Presentation.csproj.AssemblyReference.cache
+C:\Users\JONATHAN\Desktop\SAIE el que sirve\PROYECTO SAIE\SAIE\Presentation\obj\Debug\Presentation.BaseForms.BaseFixedForm.resources
+C:\Users\JONATHAN\Desktop\SAIE el que sirve\PROYECTO SAIE\SAIE\Presentation\obj\Debug\Presentation.BaseForms.BaseMainForm.resources
+C:\Users\JONATHAN\Desktop\SAIE el que sirve\PROYECTO SAIE\SAIE\Presentation\obj\Debug\Presentation.ChildForms.FormUserMaintenance.resources
+C:\Users\JONATHAN\Desktop\SAIE el que sirve\PROYECTO SAIE\SAIE\Presentation\obj\Debug\Presentation.ChildForms.FormUsers.resources
+C:\Users\JONATHAN\Desktop\SAIE el que sirve\PROYECTO SAIE\SAIE\Presentation\obj\Debug\Presentation.LoginForm.resources
+C:\Users\JONATHAN\Desktop\SAIE el que sirve\PROYECTO SAIE\SAIE\Presentation\obj\Debug\Presentation.MainForm.resources
+C:\Users\JONATHAN\Desktop\SAIE el que sirve\PROYECTO SAIE\SAIE\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+C:\Users\JONATHAN\Desktop\SAIE el que sirve\PROYECTO SAIE\SAIE\Presentation\obj\Debug\Presentation.WelcomeForm.resources
+C:\Users\JONATHAN\Desktop\SAIE el que sirve\PROYECTO SAIE\SAIE\Presentation\obj\Debug\Presentation.csproj.GenerateResource.cache
+C:\Users\JONATHAN\Desktop\SAIE el que sirve\PROYECTO SAIE\SAIE\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\JONATHAN\Desktop\SAIE el que sirve\PROYECTO SAIE\SAIE\Presentation\obj\Debug\Presenta.BC777DBE.Up2Date
+C:\Users\JONATHAN\Desktop\SAIE el que sirve\PROYECTO SAIE\SAIE\Presentation\obj\Debug\Presentation.exe
+C:\Users\JONATHAN\Desktop\SAIE el que sirve\PROYECTO SAIE\SAIE\Presentation\obj\Debug\Presentation.pdb
+C:\Users\jomir\source\repos\SAIE\Presentation\bin\Debug\Presentation.exe.config
+C:\Users\jomir\source\repos\SAIE\Presentation\bin\Debug\Presentation.exe
+C:\Users\jomir\source\repos\SAIE\Presentation\bin\Debug\Presentation.pdb
+C:\Users\jomir\source\repos\SAIE\Presentation\bin\Debug\CircularProgressBar.dll
+C:\Users\jomir\source\repos\SAIE\Presentation\bin\Debug\Common.dll
+C:\Users\jomir\source\repos\SAIE\Presentation\bin\Debug\Domain.dll
+C:\Users\jomir\source\repos\SAIE\Presentation\bin\Debug\WinFormAnimation.dll
+C:\Users\jomir\source\repos\SAIE\Presentation\bin\Debug\DataAccess.dll
+C:\Users\jomir\source\repos\SAIE\Presentation\bin\Debug\Common.pdb
+C:\Users\jomir\source\repos\SAIE\Presentation\bin\Debug\Domain.pdb
+C:\Users\jomir\source\repos\SAIE\Presentation\bin\Debug\CircularProgressBar.xml
+C:\Users\jomir\source\repos\SAIE\Presentation\bin\Debug\DataAccess.pdb
+C:\Users\jomir\source\repos\SAIE\Presentation\obj\Debug\Presentation.csproj.AssemblyReference.cache
+C:\Users\jomir\source\repos\SAIE\Presentation\obj\Debug\Presentation.BaseForms.BaseFixedForm.resources
+C:\Users\jomir\source\repos\SAIE\Presentation\obj\Debug\Presentation.BaseForms.BaseMainForm.resources
+C:\Users\jomir\source\repos\SAIE\Presentation\obj\Debug\Presentation.ChildForms.FormUserMaintenance.resources
+C:\Users\jomir\source\repos\SAIE\Presentation\obj\Debug\Presentation.ChildForms.FormUsers.resources
+C:\Users\jomir\source\repos\SAIE\Presentation\obj\Debug\Presentation.LoginForm.resources
+C:\Users\jomir\source\repos\SAIE\Presentation\obj\Debug\Presentation.MainForm.resources
+C:\Users\jomir\source\repos\SAIE\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+C:\Users\jomir\source\repos\SAIE\Presentation\obj\Debug\Presentation.WelcomeForm.resources
+C:\Users\jomir\source\repos\SAIE\Presentation\obj\Debug\Presentation.csproj.GenerateResource.cache
+C:\Users\jomir\source\repos\SAIE\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\jomir\source\repos\SAIE\Presentation\obj\Debug\Presentation.csproj.CopyComplete
+C:\Users\jomir\source\repos\SAIE\Presentation\obj\Debug\Presentation.exe
+C:\Users\jomir\source\repos\SAIE\Presentation\obj\Debug\Presentation.pdb
+C:\Users\jomir\source\repos\SAIE\Presentation\obj\Debug\Presentation.Form_alumnos.resources
+C:\Users\jomir\source\repos\SAIE\Presentation\obj\Debug\Presentation.Registro_alumnos.resources
+C:\Users\jomir\source\repos\SAIE\Presentation\obj\Debug\Presentation.Editar_alumno.resources
+C:\Users\jomir\OneDrive\Documentos\GitHub\Programaci-nI2024\SAIE\Presentation\bin\Debug\Presentation.exe.config
+C:\Users\jomir\OneDrive\Documentos\GitHub\Programaci-nI2024\SAIE\Presentation\bin\Debug\Presentation.exe
+C:\Users\jomir\OneDrive\Documentos\GitHub\Programaci-nI2024\SAIE\Presentation\bin\Debug\Presentation.pdb
+C:\Users\jomir\OneDrive\Documentos\GitHub\Programaci-nI2024\SAIE\Presentation\bin\Debug\CircularProgressBar.dll
+C:\Users\jomir\OneDrive\Documentos\GitHub\Programaci-nI2024\SAIE\Presentation\bin\Debug\Common.dll
+C:\Users\jomir\OneDrive\Documentos\GitHub\Programaci-nI2024\SAIE\Presentation\bin\Debug\DataAccess.dll
+C:\Users\jomir\OneDrive\Documentos\GitHub\Programaci-nI2024\SAIE\Presentation\bin\Debug\Domain.dll
+C:\Users\jomir\OneDrive\Documentos\GitHub\Programaci-nI2024\SAIE\Presentation\bin\Debug\WinFormAnimation.dll
+C:\Users\jomir\OneDrive\Documentos\GitHub\Programaci-nI2024\SAIE\Presentation\bin\Debug\Common.pdb
+C:\Users\jomir\OneDrive\Documentos\GitHub\Programaci-nI2024\SAIE\Presentation\bin\Debug\DataAccess.pdb
+C:\Users\jomir\OneDrive\Documentos\GitHub\Programaci-nI2024\SAIE\Presentation\bin\Debug\Domain.pdb
+C:\Users\jomir\OneDrive\Documentos\GitHub\Programaci-nI2024\SAIE\Presentation\bin\Debug\CircularProgressBar.xml
+C:\Users\jomir\OneDrive\Documentos\GitHub\Programaci-nI2024\SAIE\Presentation\obj\Debug\Presentation.csproj.AssemblyReference.cache
+C:\Users\jomir\OneDrive\Documentos\GitHub\Programaci-nI2024\SAIE\Presentation\obj\Debug\Presentation.BaseForms.BaseFixedForm.resources
+C:\Users\jomir\OneDrive\Documentos\GitHub\Programaci-nI2024\SAIE\Presentation\obj\Debug\Presentation.BaseForms.BaseMainForm.resources
+C:\Users\jomir\OneDrive\Documentos\GitHub\Programaci-nI2024\SAIE\Presentation\obj\Debug\Presentation.ChildForms.FormUserMaintenance.resources
+C:\Users\jomir\OneDrive\Documentos\GitHub\Programaci-nI2024\SAIE\Presentation\obj\Debug\Presentation.ChildForms.FormUsers.resources
+C:\Users\jomir\OneDrive\Documentos\GitHub\Programaci-nI2024\SAIE\Presentation\obj\Debug\Presentation.Editar_alumno.resources
+C:\Users\jomir\OneDrive\Documentos\GitHub\Programaci-nI2024\SAIE\Presentation\obj\Debug\Presentation.Form_alumnos.resources
+C:\Users\jomir\OneDrive\Documentos\GitHub\Programaci-nI2024\SAIE\Presentation\obj\Debug\Presentation.LoginForm.resources
+C:\Users\jomir\OneDrive\Documentos\GitHub\Programaci-nI2024\SAIE\Presentation\obj\Debug\Presentation.MainForm.resources
+C:\Users\jomir\OneDrive\Documentos\GitHub\Programaci-nI2024\SAIE\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+C:\Users\jomir\OneDrive\Documentos\GitHub\Programaci-nI2024\SAIE\Presentation\obj\Debug\Presentation.Registro_alumnos.resources
+C:\Users\jomir\OneDrive\Documentos\GitHub\Programaci-nI2024\SAIE\Presentation\obj\Debug\Presentation.WelcomeForm.resources
+C:\Users\jomir\OneDrive\Documentos\GitHub\Programaci-nI2024\SAIE\Presentation\obj\Debug\Presentation.csproj.GenerateResource.cache
+C:\Users\jomir\OneDrive\Documentos\GitHub\Programaci-nI2024\SAIE\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\jomir\OneDrive\Documentos\GitHub\Programaci-nI2024\SAIE\Presentation\obj\Debug\Presentation.csproj.CopyComplete
+C:\Users\jomir\OneDrive\Documentos\GitHub\Programaci-nI2024\SAIE\Presentation\obj\Debug\Presentation.exe
+C:\Users\jomir\OneDrive\Documentos\GitHub\Programaci-nI2024\SAIE\Presentation\obj\Debug\Presentation.pdb
+C:\Users\jomir\OneDrive\Documentos\GitHub\Programaci-nI2024\SAIE\Presentation\obj\Debug\Presentation.Calificaciones_menu.resources
+C:\Users\jomir\OneDrive\Documentos\GitHub\Programaci-nI2024\SAIE\Presentation\obj\Debug\Presentation.Mostrar_calificaciones.resources
+C:\Users\jomir\OneDrive\Documentos\GitHub\Programaci-nI2024\SAIE\Presentation\obj\Debug\Presentation.ver_alumnos_cali.resources
+C:\Users\jomir\OneDrive\Documentos\GitHub\Programaci-nI2024\SAIE\Presentation\obj\Debug\Presentation.Agregar_calificaciones.resources

@@ -1,0 +1,16 @@
+PROPUESTA DE PROYECTO
+SOFTWARE ADMINISTRATIVO PARA INSTITUCIONES EDUCATIVAS (SAIE)
+1. El software va dirigido a aquellas entidades educativas que desean gestionar el área
+administrativa de manera eficiente y rápida. Varias instituciones tienden a gestionar sus
+archivos de manera física, lo que conlleva cierto desafío en términos de organización,
+acceso y seguridad de la información. El manejo manual de los archivos puede ser
+propenso a errores humanos, lo que puede generar complicaciones en la gestión de datos.
+Además, que el gestionar manualmente diferentes actividades dentro del área
+administrativa conlleva a la ralentizar operaciones. El software propuesto ofrece una
+solución al manejo y gestión eficiente del área administrativa.
+2. Entre sus funciones podemos destacar el acceso con usuario y contraseña, garantizando la
+seguridad y privacidad de los datos. Gestión de alumnos (Registrar, modificar y eliminar la
+información de los estudiantes como historial académico y datos personales), gestión
+financiera (Administración de ingresos y gastos, facturación y seguimiento de pagos),
+generación automatizada de informes académicos (permite gestionar información
+detallada sobre las calificaciones

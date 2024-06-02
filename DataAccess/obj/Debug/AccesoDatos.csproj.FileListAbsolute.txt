@@ -1,0 +1,36 @@
+C:\Users\JONATHAN\Desktop\PROYECTO BASE\PROYECTO SAIE\SAIE\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\JONATHAN\Desktop\PROYECTO BASE\PROYECTO SAIE\SAIE\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\JONATHAN\Desktop\PROYECTO BASE\PROYECTO SAIE\SAIE\DataAccess\bin\Debug\Common.dll
+C:\Users\JONATHAN\Desktop\PROYECTO BASE\PROYECTO SAIE\SAIE\DataAccess\bin\Debug\Common.pdb
+C:\Users\JONATHAN\Desktop\PROYECTO BASE\PROYECTO SAIE\SAIE\DataAccess\obj\Debug\AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\JONATHAN\Desktop\PROYECTO BASE\PROYECTO SAIE\SAIE\DataAccess\obj\Debug\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\JONATHAN\Desktop\PROYECTO BASE\PROYECTO SAIE\SAIE\DataAccess\obj\Debug\AccesoDa.B2719C34.Up2Date
+C:\Users\JONATHAN\Desktop\PROYECTO BASE\PROYECTO SAIE\SAIE\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\JONATHAN\Desktop\PROYECTO BASE\PROYECTO SAIE\SAIE\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\JONATHAN\Desktop\PROYECTO SAIE\SAIE\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\JONATHAN\Desktop\PROYECTO SAIE\SAIE\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\JONATHAN\Desktop\PROYECTO SAIE\SAIE\DataAccess\bin\Debug\Common.dll
+C:\Users\JONATHAN\Desktop\PROYECTO SAIE\SAIE\DataAccess\bin\Debug\Common.pdb
+C:\Users\JONATHAN\Desktop\PROYECTO SAIE\SAIE\DataAccess\obj\Debug\AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\JONATHAN\Desktop\PROYECTO SAIE\SAIE\DataAccess\obj\Debug\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\JONATHAN\Desktop\PROYECTO SAIE\SAIE\DataAccess\obj\Debug\AccesoDa.B2719C34.Up2Date
+C:\Users\JONATHAN\Desktop\PROYECTO SAIE\SAIE\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\JONATHAN\Desktop\PROYECTO SAIE\SAIE\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\jomir\source\repos\SAIE\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\jomir\source\repos\SAIE\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\jomir\source\repos\SAIE\DataAccess\bin\Debug\Common.dll
+C:\Users\jomir\source\repos\SAIE\DataAccess\bin\Debug\Common.pdb
+C:\Users\jomir\source\repos\SAIE\DataAccess\obj\Debug\AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\jomir\source\repos\SAIE\DataAccess\obj\Debug\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\jomir\source\repos\SAIE\DataAccess\obj\Debug\AccesoDatos.csproj.CopyComplete
+C:\Users\jomir\source\repos\SAIE\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\jomir\source\repos\SAIE\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\jomir\OneDrive\Documentos\GitHub\Programaci-nI2024\SAIE\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\jomir\OneDrive\Documentos\GitHub\Programaci-nI2024\SAIE\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\jomir\OneDrive\Documentos\GitHub\Programaci-nI2024\SAIE\DataAccess\bin\Debug\Common.dll
+C:\Users\jomir\OneDrive\Documentos\GitHub\Programaci-nI2024\SAIE\DataAccess\bin\Debug\Common.pdb
+C:\Users\jomir\OneDrive\Documentos\GitHub\Programaci-nI2024\SAIE\DataAccess\obj\Debug\AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\jomir\OneDrive\Documentos\GitHub\Programaci-nI2024\SAIE\DataAccess\obj\Debug\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\jomir\OneDrive\Documentos\GitHub\Programaci-nI2024\SAIE\DataAccess\obj\Debug\AccesoDatos.csproj.CopyComplete
+C:\Users\jomir\OneDrive\Documentos\GitHub\Programaci-nI2024\SAIE\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\jomir\OneDrive\Documentos\GitHub\Programaci-nI2024\SAIE\DataAccess\obj\Debug\DataAccess.pdb

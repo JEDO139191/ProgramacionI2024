@@ -1,0 +1,29 @@
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Common\bin\Debug\Common.dll
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Common\bin\Debug\Common.pdb
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Common\obj\Debug\Common.dll
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Common\obj\Debug\Common.pdb
+D:\Descargas\proyecto\CS-Login_Project-SQL-IL\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Common\bin\Debug\Common.dll
+D:\Descargas\proyecto\CS-Login_Project-SQL-IL\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Common\bin\Debug\Common.pdb
+D:\Descargas\proyecto\CS-Login_Project-SQL-IL\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+D:\Descargas\proyecto\CS-Login_Project-SQL-IL\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\Descargas\proyecto\CS-Login_Project-SQL-IL\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Common\obj\Debug\Common.dll
+D:\Descargas\proyecto\CS-Login_Project-SQL-IL\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Common\obj\Debug\Common.pdb
+C:\Users\JONATHAN\Desktop\PROYECTO BASE\PROYECTO SAIE\SAIE\Common\bin\Debug\Common.dll
+C:\Users\JONATHAN\Desktop\PROYECTO BASE\PROYECTO SAIE\SAIE\Common\bin\Debug\Common.pdb
+C:\Users\JONATHAN\Desktop\PROYECTO BASE\PROYECTO SAIE\SAIE\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\JONATHAN\Desktop\PROYECTO BASE\PROYECTO SAIE\SAIE\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\JONATHAN\Desktop\PROYECTO BASE\PROYECTO SAIE\SAIE\Common\obj\Debug\Common.dll
+C:\Users\JONATHAN\Desktop\PROYECTO BASE\PROYECTO SAIE\SAIE\Common\obj\Debug\Common.pdb
+C:\Users\JONATHAN\Desktop\PROYECTO SAIE\SAIE\Common\bin\Debug\Common.dll
+C:\Users\JONATHAN\Desktop\PROYECTO SAIE\SAIE\Common\bin\Debug\Common.pdb
+C:\Users\JONATHAN\Desktop\PROYECTO SAIE\SAIE\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\JONATHAN\Desktop\PROYECTO SAIE\SAIE\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\JONATHAN\Desktop\PROYECTO SAIE\SAIE\Common\obj\Debug\Common.dll
+C:\Users\JONATHAN\Desktop\PROYECTO SAIE\SAIE\Common\obj\Debug\Common.pdb
+C:\Users\jomir\source\repos\SAIE\Common\bin\Debug\Common.dll
+C:\Users\jomir\source\repos\SAIE\Common\bin\Debug\Common.pdb
+C:\Users\jomir\source\repos\SAIE\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\jomir\source\repos\SAIE\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\jomir\source\repos\SAIE\Common\obj\Debug\Common.dll
+C:\Users\jomir\source\repos\SAIE\Common\obj\Debug\Common.pdb
