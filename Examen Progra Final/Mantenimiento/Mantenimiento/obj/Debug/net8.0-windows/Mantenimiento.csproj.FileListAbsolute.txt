@@ -1,0 +1,9 @@
+C:\Users\JONATHAN\Desktop\Examen Progra Final\Mantenimiento\Mantenimiento\obj\Debug\net8.0-windows\Mantenimiento.csproj.AssemblyReference.cache
+C:\Users\JONATHAN\Desktop\Examen Progra Final\Mantenimiento\Mantenimiento\obj\Debug\net8.0-windows\Mantenimiento.Form1.resources
+C:\Users\JONATHAN\Desktop\Examen Progra Final\Mantenimiento\Mantenimiento\obj\Debug\net8.0-windows\Mantenimiento.FormActualizarProducto.resources
+C:\Users\JONATHAN\Desktop\Examen Progra Final\Mantenimiento\Mantenimiento\obj\Debug\net8.0-windows\Mantenimiento.Form2.resources
+C:\Users\JONATHAN\Desktop\Examen Progra Final\Mantenimiento\Mantenimiento\obj\Debug\net8.0-windows\Mantenimiento.csproj.GenerateResource.cache
+C:\Users\JONATHAN\Desktop\Examen Progra Final\Mantenimiento\Mantenimiento\obj\Debug\net8.0-windows\Mantenimiento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JONATHAN\Desktop\Examen Progra Final\Mantenimiento\Mantenimiento\obj\Debug\net8.0-windows\Mantenimiento.AssemblyInfoInputs.cache
+C:\Users\JONATHAN\Desktop\Examen Progra Final\Mantenimiento\Mantenimiento\obj\Debug\net8.0-windows\Mantenimiento.AssemblyInfo.cs
+C:\Users\JONATHAN\Desktop\Examen Progra Final\Mantenimiento\Mantenimiento\obj\Debug\net8.0-windows\Mantenimiento.csproj.CoreCompileInputs.cache
